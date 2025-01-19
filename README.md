@@ -65,53 +65,63 @@
 
 ---
 
+[Previous sections remain the same...]
+
 ## 🔧 Languages and Tools
 
 <div align="center">
 
-### **Languages**
-<img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png" alt="Java" />
-<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" alt="HTML" />
-<img src="https://img.icons8.com/color/50/000000/css3.png" alt="CSS" />
-<img src="https://img.icons8.com/color/50/000000/javascript.png" alt="JavaScript" />
-<img src="https://img.icons8.com/color/50/000000/dart.png" alt="Dart" />
-<img src="https://img.icons8.com/color/50/000000/typescript.png" alt="TypeScript" />
+<h3>Languages</h3>
+<p align="center">
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="50" height="50"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/></a>
+</p>
 
-### **Frameworks**
-<img src="https://img.icons8.com/color/50/000000/nodejs.png" alt="Node.js" />
-<img src="https://img.icons8.com/color/50/000000/angularjs.png" alt="Angular" />
-<img src="https://img.icons8.com/color/50/000000/react-native.png" alt="React" />
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-nestjs-a-progressive-nodejs-framework-for-building-efficient-and-scalable-server-side-applications-logo-shadow-tal-revivo.png" alt="Nest.js" />
-<img src="https://img.icons8.com/color/50/000000/flutter.png" alt="Flutter" />
-<img src="https://img.icons8.com/color/50/000000/electron.png" alt="Electron" />
-<img src="https://img.icons8.com/color/50/000000/laravel.png" alt="Laravel" />
-<img src="https://img.icons8.com/color/50/000000/bootstrap.png" alt="Bootstrap" />
+<h3>Frameworks & Libraries</h3>
+<p align="center">
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="50" height="50"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="Electron" width="50" height="50"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="50" height="50"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/></a>
+</p>
 
-### **Databases**
-<img src="https://img.icons8.com/color/50/000000/mysql-logo.png" alt="MySQL" />
-<img src="https://img.icons8.com/color/50/000000/mongodb.png" alt="MongoDB" />
-<img src="https://img.icons8.com/color/50/000000/postgres.png" alt="Postgre" />
+<h3>Databases</h3>
+<p align="center">
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/></a>
+</p>
 
-### **Cloud Computing**
-<img src="https://img.icons8.com/color/50/000000/amazon-web-services.png" alt="AWS" />
+<h3>Cloud Computing</h3>
+<p align="center">
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/></a>
+</p>
 
-### **Version Control**
-<img src="https://img.icons8.com/color/50/000000/git.png" alt="Git" />
-<img src="https://img.icons8.com/color/50/000000/github--v1.png" alt="GitHub" />
+<h3>Version Control</h3>
+<p align="center">
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/></a>
+</p>
 
-### **Developing Tools**
-<img src="https://img.icons8.com/color/50/000000/intellij-idea.png" alt="IntelliJ IDEA" />
-<img src="https://img.icons8.com/color/50/000000/visual-studio-code-2019.png" alt="Visual Studio Code" />
-<img src="https://img.icons8.com/fluency/50/000000/android-studio--v3.png" alt="Android Studio" />
-<img src="https://img.icons8.com/dusk/64/000000/postman-api.png" alt="Postman" />
-
-### **Designing Tools**
-<img src="https://img.icons8.com/color/50/000000/adobe-photoshop--v1.png" alt="Photoshop" />
-<img src="https://img.icons8.com/color/50/000000/adobe-after-effects--v1.png" alt="After Effects" />
-<img src="https://img.icons8.com/color/50/000000/adobe-premiere-pro--v1.png" alt="Premiere Pro" />
+<h3>Development Tools</h3>
+<p align="center">
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="50" height="50"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android Studio" width="50" height="50"/></a>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
+</p>
 
 </div>
 
+[Rest of the sections remain the same...]
 ---
 
 ## 🤞 Support My Work
