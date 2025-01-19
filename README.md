@@ -1,114 +1,152 @@
 <h1 align="center">
-  <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Chathupa+Chamika;Full+Stack+Developer;Passionate+about+Coding+🚀;Always+Learning+New+Things+🌱" alt="Typing SVG"/>
-  </div>
+  <img src="banner.png" alt="Banner" width="100%" />
+  <br>
+  Hi ὄb, I'm <span style="color:blue;">@Chathupachamika</span> 
+  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="140" alt="Laptop User">
 </h1>
 
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Freelancer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Passionate+about+Coding+%F0%9F%9A%80;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG">
+</h3>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chathupachamika&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Chathupachamika&icon=1&color=0" alt="Visit Count">
+  </a>
 </p>
 
-<div align="center">
-  <img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" width="600" height="300"/>
+---
+
+### ⚖ About Me:
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
+  <div style="flex: 1;">
+    <ul style="font-size: 18px; line-height: 1.8; list-style: none; padding: 0;">
+      <li>⚡ I’m currently learning <strong>MERN Stack</strong>.</li>
+      <li>🌱 I recently finished studying at <strong>ICET Institute</strong> and am looking forward to university.</li>
+      <li>💻 See more details in my <a href="http://portfolio20041119.s3-website.eu-north-1.amazonaws.com" target="_blank" style="color: #0366d6; text-decoration: none;">Portfolio</a>.</li>
+      <li>💬 Ask me about <strong>Java, JavaScript, Angular, and Spring Boot</strong>.</li>
+      <li>📧 Reach me at <strong>Chathupachamika765@gmail.com</strong>.</li>
+    </ul>
+  </div>
+  <div style="flex: 1;">
+    <div align="right">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation">
+    </div>
+  </div>
 </div>
 
-## 🚀 About Me
-
-```javascript
-const chathupa = {
-    currentlyLearning: "MERN Stack",
-    education: "ICET Institute → University (Soon)",
-    askMeAbout: ["Java", "JavaScript", "Angular", "Spring Boot"],
-    portfolio: "http://portfolio20041119.s3-website.eu-north-1.amazonaws.com",
-    contact: "Chathupachamika765@gmail.com"
-};
-```
+---
 
 ## 🌐 Connect With Me
-<p align="center">
-  <a href="https://twitter.com/chathupachamika" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/chathupa-chamika-/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://web.facebook.com/chathupa.chamika.7" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-  <a href="https://wa.me/+94754278741" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://instagram.com/chathupachamika" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-</p>
-
-## 💻 Tech Stack
-
-<details>
-<summary>Click to expand!</summary>
-
-### Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-
-### Frameworks & Libraries
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-### IDEs & Tools
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### Design Tools
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-
-</details>
-
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chathupachamika&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chathupachamika&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <a href="https://twitter.com/chathupachamika" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/chathupa-chamika-/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="https://web.facebook.com/chathupa.chamika.7" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" />
+  </a>
+   <a href="https://wa.me/+94754278741" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp" />
+  </a>
+  <a href="https://instagram.com/chathupachamika" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" />
+  </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chathupachamika&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Chathupachamika&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Chathupachamika&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
+</div>
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
-## 🫶 Support My Work
-<p align="center">
-  <a href="https://www.buymeacoffee.com/chathupache" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-  </a>
-  <a href="https://ko-fi.com/chathupachamika" target="_blank">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
-  </a>
-</p>
+## 🔧 Languages and Tools
 
 <div align="center">
-  <img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif" width="200"/>
-  <p>Thanks for visiting! Let's connect and create something amazing together. 🚀</p>
+
+### **Languages**
+<img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png" alt="Java" />
+<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" alt="HTML" />
+<img src="https://img.icons8.com/color/50/000000/css3.png" alt="CSS" />
+<img src="https://img.icons8.com/color/50/000000/javascript.png" alt="JavaScript" />
+<img src="https://img.icons8.com/color/50/000000/dart.png" alt="Dart" />
+<img src="https://img.icons8.com/color/50/000000/typescript.png" alt="TypeScript" />
+
+### **Frameworks**
+<img src="https://img.icons8.com/color/50/000000/nodejs.png" alt="Node.js" />
+<img src="https://img.icons8.com/color/50/000000/angularjs.png" alt="Angular" />
+<img src="https://img.icons8.com/color/50/000000/react-native.png" alt="React" />
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-nestjs-a-progressive-nodejs-framework-for-building-efficient-and-scalable-server-side-applications-logo-shadow-tal-revivo.png" alt="Nest.js" />
+<img src="https://img.icons8.com/color/50/000000/flutter.png" alt="Flutter" />
+<img src="https://img.icons8.com/color/50/000000/electron.png" alt="Electron" />
+<img src="https://img.icons8.com/color/50/000000/laravel.png" alt="Laravel" />
+<img src="https://img.icons8.com/color/50/000000/bootstrap.png" alt="Bootstrap" />
+
+### **Databases**
+<img src="https://img.icons8.com/color/50/000000/mysql-logo.png" alt="MySQL" />
+<img src="https://img.icons8.com/color/50/000000/mongodb.png" alt="MongoDB" />
+<img src="https://img.icons8.com/color/50/000000/postgresql.png" alt="PostgreSQL" />
+
+### **Cloud Computing**
+<img src="https://img.icons8.com/color/50/000000/amazon-web-services.png" alt="AWS" />
+
+### **Version Control**
+<img src="https://img.icons8.com/color/50/000000/git.png" alt="Git" />
+<img src="https://img.icons8.com/color/50/000000/github--v1.png" alt="GitHub" />
+
+### **Developing Tools**
+<img src="https://img.icons8.com/color/50/000000/intellij-idea.png" alt="IntelliJ IDEA" />
+<img src="https://img.icons8.com/color/50/000000/visual-studio-code-2019.png" alt="Visual Studio Code" />
+<img src="https://img.icons8.com/fluency/50/000000/android-studio--v3.png" alt="Android Studio" />
+<img src="https://img.icons8.com/dusk/64/000000/postman-api.png" alt="Postman" />
+
+### **Designing Tools**
+<img src="https://img.icons8.com/color/50/000000/adobe-photoshop--v1.png" alt="Photoshop" />
+<img src="https://img.icons8.com/color/50/000000/adobe-after-effects--v1.png" alt="After Effects" />
+<img src="https://img.icons8.com/color/50/000000/adobe-premiere-pro--v1.png" alt="Premiere Pro" />
+
+</div>
+
+---
+
+## 🤞 Support My Work
+<div align="center">
+  <a href="https://www.buymeacoffee.com/chathupache" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
+  </a>
+  <a href="https://ko-fi.com/chathupachamika" target="_blank" style="margin-left: 10px;">
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Support me on Ko-fi" />
+  </a>
+</div>
+
+<p align="center" style="font-size: 16px; font-weight: bold;">Your support inspires me to create more awesome projects! 💖</p>
+
+---
+
+## 🗊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chathupachamika&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chathupachamika&theme=merko&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chathupachamika&theme=synthwave&hide_border=false" />
+</div>
+
+---
+
+### ✍️ Random Dev Quote
+<div align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
+</div>
+
+### 🔝 Top Contributed Repo
+<div align="left">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Chathupachamika&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos">
+</div>
+
+<div align="right">
+  <img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif?cid=ecf05e4768ikb3p9h7tybnx5qe6dbf5mo7rbbzdthrtoxeo3&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" alt="Goodbye Animation">
 </div>
