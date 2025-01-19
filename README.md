@@ -90,7 +90,7 @@
 ### **Databases**
 <img src="https://img.icons8.com/color/50/000000/mysql-logo.png" alt="MySQL" />
 <img src="https://img.icons8.com/color/50/000000/mongodb.png" alt="MongoDB" />
-<img src="https://img.icons8.com/color/50/000000/postgre.png" alt="Postgre" />
+<img src="https://img.icons8.com/color/50/000000/postgres.png" alt="Postgre" />
 
 ### **Cloud Computing**
 <img src="https://img.icons8.com/color/50/000000/amazon-web-services.png" alt="AWS" />
